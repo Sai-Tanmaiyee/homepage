@@ -20,6 +20,6 @@ This React application serves as a platform to display events, announcements, ne
 
 ## Setup
 
-1. Clone the repository:
+1. Clone the repository
 2. cd your-project
 3. npm install
