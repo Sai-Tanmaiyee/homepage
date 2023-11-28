@@ -1,14 +1,25 @@
-# # Disney Plus Clone Readme
+# # College Home Page
 
-## <a href='https://linkedin-clone-b9f2a.web.app' target='_blank'>LIVE DEMO</a>
+## Overview
 
-## Description
-This is the ReactJS LinkedIn Clone, the perfect project to put on your portfolio by Clever Programmer.
+This React application serves as a platform to display events, announcements, news, and features a footer section. It's designed to provide users with a seamless experience in accessing and staying updated on various aspects of your college.
 
-## Build it today!
+## Features
 
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a> (Select the LTS option)
-- Download all the images and videos <a href='https://drive.google.com/drive/folders/1czlG0rnLWJgNLhlU-tN6OVyB6xu1r5UU?usp=sharing'>HERE</a>
-- Watch full tutorial <a href='https://youtu.be/xP3cxbDUtrc'>HERE</a>
+- **Home Page:**
+  - Displays a curated list of events, announcements, and news.
+  - Offers an intuitive and user-friendly interface for easy navigation.
+
+- **Footer:**
+  - Provides additional information, links, or contact details.
+  - Enhances the overall user experience and serves as a centralized hub for important resources.
+
+## Technologies Used
+
+- **React**: The front-end library for building user interfaces.
+
+## Setup
+
+1. Clone the repository:
+2. cd your-project
+3. npm install
